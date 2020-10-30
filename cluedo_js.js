@@ -1,3 +1,5 @@
+// https://www.crowdcast.io/e/cluedo-javascript?utm_source=crowdcast&utm_medium=email&utm_campaign=followers
+
 //Suspects
 
 let mrGreen = {
